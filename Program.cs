@@ -22,9 +22,8 @@ class Program
         movies.Add(new Movie("It", "Horror"));
         movies.Add(new Movie("Get Out", "Horror"));
 
-         movies.ToArray();
+        movies.ToArray();
 
-        Console.WriteLine(movies.ToString());
 
         do
         {
