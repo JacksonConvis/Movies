@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uo0m64RKPXwo1oGw+R+bIrpR9X4bizV9RitwafKKinWmbv7Yep8tkNe3acqIkjpLmtcicL0Ej3w+wovcRnOEgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackc\\OneDrive\\Desktop\\Grand Circus Labs\\CSharp\\Movies\\Movies\\Movies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\jackc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

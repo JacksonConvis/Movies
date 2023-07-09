@@ -1,0 +1,15 @@
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\bin\Debug\net6.0\Movies.exe
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\bin\Debug\net6.0\Movies.deps.json
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\bin\Debug\net6.0\Movies.runtimeconfig.json
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\bin\Debug\net6.0\Movies.dll
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\bin\Debug\net6.0\Movies.pdb
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.csproj.AssemblyReference.cache
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfoInputs.cache
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.AssemblyInfo.cs
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.csproj.CoreCompileInputs.cache
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.dll
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\refint\Movies.dll
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.pdb
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\Movies.genruntimeconfig.cache
+C:\Users\jackc\OneDrive\Desktop\Grand Circus Labs\CSharp\Movies\Movies\obj\Debug\net6.0\ref\Movies.dll
